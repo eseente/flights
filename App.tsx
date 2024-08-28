@@ -42,7 +42,7 @@ Text.render = function render(props) {
   const style = StyleSheet.flatten(props.style) || {};
   const { fontWeight, fontFamily, ...otherStyles } = style;
 
-  let fontFamilyStyle = stylesConst.regular.fontFamily; // Default font
+  let fontFamilyStyle = stylesConst.regular.fontFamily;
 
   if (!fontFamily) {
     switch (fontWeight) {
