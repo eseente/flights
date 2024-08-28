@@ -1,7 +1,7 @@
 
 # React Native Project
 
-![Demo GIF]("./sample/flights_demo.gif")
+![Demo GIF](https://github.com/eseente/mvp-flights/blob/dev/sample/flights_demo.gif)
 
 ## Screenshots
 
