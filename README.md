@@ -1,15 +1,15 @@
 
 # React Native Project
 
-![Demo GIF](https://drive.google.com/file/d/1zEJNL3K0BaAAlXSPm6iCKa77DLAmwuZz/view?usp=sharing)
+![Demo GIF]("./sample/flights_demo.gif")
 
 ## Screenshots
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1F1WwNAqoZj68XTI3zmIKLpci_fdP2Ohv/view?usp=sharing" width="20%" />
-  <img src="https://drive.google.com/file/d/1WmfiOX6n4G4KFbmsZ1iINpC4hw8TiqEp/view?usp=sharing" width="20%" />
-  <img src="https://drive.google.com/file/d/1iS6AV5iXMfEInWtByoR9OlPDB1qdraTK/view?usp=sharing" width="20%" />
-  <img src="https://drive.google.com/file/d/1U6lwlN6KU4wdudGSiWUHx5MztoStb_7D/view?usp=sharing" width="20%" />
+  <img src="./sample/flights_1.png" width="20%" />
+  <img src="./sample/flights_2.png" width="20%" />
+  <img src="./sample/flights_3.png" width="20%" />
+  <img src="./sample/flights_4.png" width="20%" />
 </p>
 
 ## Getting Started
